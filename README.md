@@ -1,5 +1,20 @@
 ## Hi there 👋
 
+✨ I am an aspiring Software Engineer passionate about innovative problem solving that incorporates technology and computing. 
+   I enjoy engaging in diverse, collaborative environments to continue to learn, grow, and become the best version of myself.
+
+🔭 I’m currently working on two projects:
+- 2025 National Robotics Week website (check it out [here](https://www.nationalroboticsweek.org/))
+- my personal website (much more fun than a resume!)
+
+🌱 I’m currently studying for by BS in CS at UMass Amherst taking the following courses:
+- Scalable Websystems
+- Information Systems
+- Computer Architecture
+- Intro to Robotics
+
+💬 Connect with me on [LinkedIn](www.linkedin.com/in/macy-graves)
+
 <!--
 **megraves/megraves** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
